@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Food delivery App",
+    "imageSrc": "projects/project.png",
+    "description": "Introducing our MERN stack food delivery app: effortlessly order from local restaurants, track deliveries, and manage menus all in one place.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "source": "https://github.com/anikaet7/food-order-mernapp.git"
+  },
+  {
+    "title": "Air bnb Clone using react",
+    "imageSrc": "projects/Screenshot (82).png",
+    "description": "Discover, book, and host accommodations worldwide with our React-powered Airbnb clone.Streamlined and intuitive, it offers a seamless experience for users and hosts alike.",
+    "skills": ["Reactjs"],
+   
+    "source": "https://github.com/anikaet7/air-BnB-clone.git"
+  },
+  {
+    "title": "Meme generator using React ",
+    "imageSrc": "projects/project.png",
+    "description": "Introducing our React-based meme generator - create, customize, and share hilarious memes effortlessly.With a user-friendly interface.",
+    "skills": ["React"],
+    
+    "source": "https://github.com/anikaet7/air-BnB-clone.git"
+  }
+]
