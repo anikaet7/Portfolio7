@@ -1,3 +1,7 @@
+Built with React, my website showcases my projects, skills, and
+ experiences in a sleek and user-friendly interface. Explore my work
+ and learn more about me 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
