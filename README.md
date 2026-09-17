@@ -1,24 +1,36 @@
-Built with React, my website showcases my projects, skills, and
- experiences in a sleek and user-friendly interface. Explore my work
- and learn more about me 
+# Anikaet Uppal — Data Engineer Portfolio
 
-# React + Vite
+A responsive portfolio presenting my Data Engineering experience, technical skills and selected software projects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Focus
 
-Currently, two official plugins are available:
+- Databricks lakehouse workflows
+- PySpark, SQL and Python
+- Bronze-to-Silver ingestion and transformation
+- Change Data Capture (CDC)
+- Fivetran and API-based source integration
+- Full-stack development with the MERN stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# a" 
-"# Portfolio" 
-"# Portfolio" 
-"# Portfolio" 
-"# Portfolio" 
-"# Portfolio_1" 
-"# Portfolio_" 
-"# Portfolio7" 
-"# Portfolio7" 
-"# Portfolio7" 
-"# Portfolio7" 
-"# Portfolio7" 
+## Built with
+
+React 18, Vite and CSS Modules. The site is deployed through GitHub Pages.
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Create a production build with:
+
+```bash
+npm run build
+```
+
+## Contact
+
+- GitHub: [anikaet7](https://github.com/anikaet7)
+- LinkedIn: [Anikaet Uppal](https://www.linkedin.com/in/anikaet-uppal-9a8748238)
+- Email: [anikaetuppal99@gmail.com](mailto:anikaetuppal99@gmail.com)
+

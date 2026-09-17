@@ -1,25 +1,24 @@
 [
   {
-    "title": "Food delivery App",
+    "title": "MERN Authentication Platform",
     "imageSrc": "projects/project.png",
-    "description": "Introducing our MERN stack food delivery app: effortlessly order from local restaurants, track deliveries, and manage menus all in one place.",
-    "skills": ["React", "Express", "Node","MongoDB"],
-    "source": "https://github.com/anikaet7/food-order-mernapp.git"
+    "description": "Full-stack authentication with JWT, Google OAuth, protected routes, Redux Toolkit and Firebase-backed profile images.",
+    "skills": ["React", "Node.js", "MongoDB", "JWT"],
+    "source": "https://github.com/anikaet7/MERN-Auth-App"
   },
   {
-    "title": "Air bnb Clone using react",
+    "title": "Food Ordering Application",
+    "imageSrc": "projects/project.png",
+    "description": "A MERN application for browsing food options, managing a cart and supporting an end-to-end ordering experience.",
+    "skills": ["React", "Express", "Node.js", "MongoDB"],
+    "source": "https://github.com/anikaet7/food-order-mernapp"
+  },
+  {
+    "title": "Airbnb UI Clone",
     "imageSrc": "projects/Screenshot (82).png",
-    "description": "Discover, book, and host accommodations worldwide with our React-powered Airbnb clone.Streamlined and intuitive, it offers a seamless experience for users and hosts alike.",
-    "skills": ["Reactjs"],
-   
-    "source": "https://github.com/anikaet7/air-BnB-clone.git"
-  },
-  {
-    "title": "Meme generator using React ",
-    "imageSrc": "projects/project.png",
-    "description": "Introducing our React-based meme generator - create, customize, and share hilarious memes effortlessly.With a user-friendly interface.",
-    "skills": ["React"],
-    
-    "source": "https://github.com/anikaet7/air-BnB-clone.git"
+    "description": "A responsive React interface inspired by Airbnb, built to practise reusable components and modern layout patterns.",
+    "skills": ["React", "CSS", "Responsive UI"],
+    "source": "https://github.com/anikaet7/air-BnB-clone"
   }
 ]
+

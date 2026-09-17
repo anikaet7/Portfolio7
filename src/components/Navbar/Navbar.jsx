@@ -8,8 +8,8 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
-        Portfolio
+      <a className={styles.title} href="#top" aria-label="Anikaet Uppal, home">
+        AU<span>.</span>
       </a>
       <div className={styles.menu}>
         <img
@@ -19,7 +19,7 @@ export const Navbar = () => {
               ? getImageUrl("nav/closeIcon.png")
               : getImageUrl("nav/menuIcon.png")
           }
-          alt="menu-button"
+          alt={menuOpen ? "Close menu" : "Open menu"}
           onClick={() => setMenuOpen(!menuOpen)}
         />
         <ul
@@ -36,7 +36,7 @@ export const Navbar = () => {
             <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#about">Contact</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>
