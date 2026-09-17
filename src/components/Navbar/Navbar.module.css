@@ -16,6 +16,7 @@
   text-decoration: none;
   color: var(--color-text);
 }
+.title span { color: var(--color-accent); }
 
 
 .menuBtn {
@@ -37,6 +38,7 @@
   color: var(--color-text);
   text-decoration: none;
 }
+.menuItems a:hover { color: var(--color-accent); }
 
 @media screen and (max-width: 830px) {
   .navbar {

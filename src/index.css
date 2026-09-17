@@ -1,10 +1,2 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: "Outfit", Arial, Helvetica, sans-serif;
-}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}body{min-width:320px;background:var(--color-bg);color:var(--color-text);font-family:"Outfit",Arial,sans-serif}a:focus-visible,button:focus-visible{outline:3px solid var(--color-accent);outline-offset:3px}::selection{background:var(--color-accent);color:#07111f}
 
-html {
-  scroll-behavior: smooth;
-}
